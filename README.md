@@ -1,6 +1,3 @@
-# Smart-Health-Monitoring-ESP32
-IoT-Based Smart Health Monitoring System Using ESP32
-
 # 🏥 IoT-Based Smart Health Monitoring System Using ESP32
 
 > VIT Invention Disclosure Format (IDF-B) | Document No: 02-IPR-R003
